@@ -1,0 +1,4 @@
+python_ortami/
+__pycache__/
+*.pyc
+.env

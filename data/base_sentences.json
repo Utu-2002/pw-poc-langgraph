@@ -1,0 +1,302 @@
+[
+  {
+    "issue_text": "Request for additional USB ports on my desk PC.",
+    "intended_category": "hardware",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Need replacement keyboard for my workstation.",
+    "intended_category": "hardware",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Can we get an upgrade to my monitor's resolution?",
+    "intended_category": "hardware",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Looking for a new mouse with better tracking for design work.",
+    "intended_category": "hardware",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Please replace the keyboard on my workstation as it is malfunctioning.",
+    "intended_category": "hardware",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you install a new monitor at my desk by tomorrow?",
+    "intended_category": "hardware",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "I need a replacement mouse due to a recent spill.",
+    "intended_category": "hardware",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can we upgrade the memory in my laptop by this Friday?",
+    "intended_category": "hardware",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Please replace my broken laptop as soon as possible.",
+    "intended_category": "hardware",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Can we have a new monitor for the conference room immediately?",
+    "intended_category": "hardware",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "I need an updated printer by this afternoon for the presentation.",
+    "intended_category": "hardware",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "We require two additional keyboards for the team right away.",
+    "intended_category": "hardware",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Request for installation of latest antivirus updates.",
+    "intended_category": "software",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Need assistance with setting up remote desktop access.",
+    "intended_category": "software",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Can we schedule an update for our project management software next week?",
+    "intended_category": "software",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Could you provide training materials for the new CRM system?",
+    "intended_category": "software",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Can you please update the project management software to the latest version by next week?",
+    "intended_category": "software",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you troubleshoot why the CRM system is slow and unresponsive for our sales team?",
+    "intended_category": "software",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "We need to deploy a new security patch on the company's ERP system as soon as possible.",
+    "intended_category": "software",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you provide training materials for the new customer support ticketing software?",
+    "intended_category": "software",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can you deploy the security updates by EOD today?",
+    "intended_category": "software",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Need the helpdesk to resolve the login issues by tomorrow morning.",
+    "intended_category": "software",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Please install the latest version of the CRM software immediately.",
+    "intended_category": "software",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Could you prioritize fixing the server crash and get back online within 2 hours?",
+    "intended_category": "software",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Request for temporary admin access to the HR system.",
+    "intended_category": "access",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Need access to the customer database for project research.",
+    "intended_category": "access",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Could you please grant me read-only access to the accounting reports?",
+    "intended_category": "access",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Access to the new marketing software training module needed.",
+    "intended_category": "access",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Can you grant me temporary access to the HR system for project planning?",
+    "intended_category": "access",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "I need urgent access to the customer database to resolve an ongoing issue.",
+    "intended_category": "access",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you provide me with escalated access rights until Friday?",
+    "intended_category": "access",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Please ensure I have the necessary permissions to complete today’s task.",
+    "intended_category": "access",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can you grant immediate access to the customer database for my ongoing project?",
+    "intended_category": "access",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Could you please provide me with urgent access to the financial reports folder?",
+    "intended_category": "access",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "I need high-priority access to update our server configurations immediately.",
+    "intended_category": "access",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Please ensure I have immediate access to the HR system for this week's meeting.",
+    "intended_category": "access",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Please update my login credentials for remote access.",
+    "intended_category": "network",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Can you check if my internet speed is within the expected range?",
+    "intended_category": "network",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Could you verify if the conference room has a stable network connection?",
+    "intended_category": "network",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "I need assistance in setting up dual-monitor support on my desktop.",
+    "intended_category": "network",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Please increase bandwidth for the finance department by 50%.",
+    "intended_category": "network",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can you troubleshoot why we're experiencing slow internet speeds?",
+    "intended_category": "network",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Need assistance setting up a new VLAN for the HR subnet.",
+    "intended_category": "network",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you check the network connectivity between our London and New York offices?",
+    "intended_category": "network",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can you please increase the bandwidth for our department by 50% immediately?",
+    "intended_category": "network",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "I need access to the backup servers right away; the external hard drive is failing.",
+    "intended_category": "network",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "There's a security breach alert; can you check and resolve this issue urgently?",
+    "intended_category": "network",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Our video conference system keeps dropping connections; can you look into it ASAP?",
+    "intended_category": "network",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Request for additional stapler in the conference room.",
+    "intended_category": "other",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Need spare USB cable for laptop use.",
+    "intended_category": "other",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Could you please label all water bottles in the kitchen?",
+    "intended_category": "other",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Would appreciate a small printer tray holder.",
+    "intended_category": "other",
+    "intended_urgency": "low"
+  },
+  {
+    "issue_text": "Please update my profile to reflect the new department transfer.",
+    "intended_category": "other",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Could you schedule a maintenance window for next Friday?",
+    "intended_category": "other",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Can we set up a secure remote access option for my home office?",
+    "intended_category": "other",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Would it be possible to receive a training session on our new project management software?",
+    "intended_category": "other",
+    "intended_urgency": "medium"
+  },
+  {
+    "issue_text": "Please update my contact information immediately.",
+    "intended_category": "other",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Could you expedite the training materials for next week's presentation?",
+    "intended_category": "other",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "Can we have an emergency meeting to discuss the server maintenance issue?",
+    "intended_category": "other",
+    "intended_urgency": "high"
+  },
+  {
+    "issue_text": "I need a temporary replacement laptop by end of day.",
+    "intended_category": "other",
+    "intended_urgency": "high"
+  }
+]

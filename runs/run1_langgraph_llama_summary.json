@@ -1,0 +1,14 @@
+{
+  "run_name": "run1_langgraph_llama",
+  "model": "llama3.1:8b",
+  "total_records": 300,
+  "elapsed_seconds": 1560.7,
+  "json_schema_pass_rate": 0.99,
+  "hard_case_success_rate": 0.94,
+  "hard_case_count": 50,
+  "interrupt_rate": 0.003,
+  "tool_call_rate": 0.95,
+  "crash_count": 0,
+  "total_tokens": 262553,
+  "avg_tokens_per_request": 875.2
+}

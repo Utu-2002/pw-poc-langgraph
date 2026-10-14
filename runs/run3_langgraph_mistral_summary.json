@@ -1,0 +1,14 @@
+{
+  "run_name": "run3_langgraph_mistral",
+  "model": "mistral:7b",
+  "total_records": 300,
+  "elapsed_seconds": 1190.6,
+  "json_schema_pass_rate": 0.953,
+  "hard_case_success_rate": 0.9,
+  "hard_case_count": 50,
+  "interrupt_rate": 0.02,
+  "tool_call_rate": 0.967,
+  "crash_count": 0,
+  "total_tokens": 331465,
+  "avg_tokens_per_request": 1104.9
+}
